@@ -1,0 +1,4 @@
+#!/bin/bash
+c_file="$CFILE"
+file_name="${c_file%.c}"
+gcc -c "$c_file" -o "$file_name.o"
