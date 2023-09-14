@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git add .
+git commit -m "n"
+git push https://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@github.com/elgazar24/alx-low_level_programming.git master
